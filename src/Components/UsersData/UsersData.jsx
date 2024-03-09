@@ -28,10 +28,9 @@ const UsersData = () => {
     <Box
       sx={{
         p: [2, 3],
-        // border: '1px solid grey',
         height: '553px',
         width: ['95%', '790px'],
-        // backgroundColor: 'lightgrey', // Responsive width
+        
       }}
     >
       <Typography variant="h5">Users</Typography>
